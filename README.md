@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HighGroundJim
 - 👀 I’m interested in cats, YouTube/Twitch, and Information Technology.
-- 🌱 I’m currently learning A+
+- 🌱 I’m currently learning A+ and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
