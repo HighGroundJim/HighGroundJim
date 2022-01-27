@@ -1,0 +1,5 @@
+cmd /k ipconfig /all
+
+<!--- 
+/k switch will run the command in interactive mode so command prompt stays open
+--->
