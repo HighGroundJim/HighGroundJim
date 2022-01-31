@@ -1,7 +1,5 @@
 cmd /k ipconfig /all
-
-##
-  <!--- 
     /k switch will run the command in interactive mode so command prompt stays open
-  --->
-##
+
+switch /persistent
+  /persistent switch will keep share drives or printers present after reboot when added using net use command
